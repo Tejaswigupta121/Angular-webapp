@@ -1,0 +1,14 @@
+# Dependency folders (this catches both backend and angular)
+**/node_modules/
+
+# Angular specific files
+**/.angular/
+**/dist/
+**/.vscode/
+
+# Environment variables (security)
+**/.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
